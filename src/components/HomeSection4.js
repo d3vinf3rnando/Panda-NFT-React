@@ -13,7 +13,7 @@ export default function HomeSection4() {
   return (
     <div className="home-section-4">
         <div>
-        <h1 className="section-4-head">Live Auctions <button class="view-button">View More</button></h1> 
+        <h1 className="section-4-head">Live Auctionss <button class="view-button">View More</button></h1> 
 
         <br />
         <br />
