@@ -1,0 +1,66 @@
+.NavBar-Main{
+    font-family:'Inter', sans-serif;
+    font-weight:600;
+    
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:30px;
+}
+
+li{
+    list-style: none;
+    display:inline-block;
+    padding:0px 30px;
+}
+
+a:hover{
+    color: rgb(139, 139, 139);
+}
+
+img{
+    width:30px;
+}
+
+.main-logo{
+    font-size: 22px;
+    color:white;
+    font-weight: bold;
+    
+}
+
+.connect-wallet{
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    border:2px solid #1E50FF;
+    border-radius:10px;
+    padding:10px; 
+    font-size:16px;
+    font-family:'Inter', sans-serif;
+    font-weight:600;
+    
+    
+}
+
+.connect-wallet:hover{
+    color:white;
+    background-color:#1E50FF;
+    
+}
+
+h1{
+    display:flex;
+    gap: 15px;
+}
+
+.logo{
+    width: 180px;
+}

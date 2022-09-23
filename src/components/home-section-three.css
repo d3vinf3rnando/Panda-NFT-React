@@ -1,0 +1,70 @@
+.section-head-2{
+    color: white;
+    font-weight: 600;
+    font-size: 54px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    text-transform: capitalize;
+}
+
+.card-design{
+    background-color:#272D37;
+    border-radius:16px;
+
+    width: 384px;
+    height: 368px;
+    
+}
+
+.cards{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    /* justify-content: space-between; */
+    gap:50px;
+}
+
+.card-icon{
+    width: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    
+}
+
+.card-head{
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    text-transform: capitalize;
+
+    margin-top:40px;
+}
+
+.card-para{
+    color:#adb9c7e1;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    padding:15px 15px;
+    margin-top: 15px;
+}
+
+.cards{
+    
+    width: 100%;
+}
+
+.second-section{
+    position: relative;
+    top: 100px;
+    
+}

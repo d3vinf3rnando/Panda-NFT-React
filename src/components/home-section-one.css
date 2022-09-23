@@ -1,0 +1,60 @@
+.head{
+    color: white;
+    font-weight: 600;
+    font-size: 54px;
+    font-family: 'Poppins', sans-serif;
+    
+    
+
+    margin-top: 150px;
+    margin-left: 30px;
+    
+}
+
+.main-div{
+    height:80vh;
+    width: 100%;
+}
+
+.head-para{
+    color:#ADB9C7;
+    font-weight:lighter;
+    font-size:16px;
+
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.button{
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    background-color: #1E50FF;
+    width:150px;
+    height:45px;
+    border-radius:10px;
+    padding:10px; 
+    font-size:16px;
+
+    margin-left: 30px;
+    margin-top:20px;
+}
+
+.button:hover{
+    background-color:#1b3ebe;
+}
+
+.card-home{
+    width:340px;
+
+    position: relative;
+    left: 840px;
+    top: -410px;
+}
+
+.side-card{
+    width:190px;
+
+    position: relative;
+    left: 1249px;
+    top: -810px;
+}
