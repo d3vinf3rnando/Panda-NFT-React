@@ -57,7 +57,7 @@ export default function HomeSection4() {
               <img className="crimage" src={crImage3} alt="" />
 
               <p className="creator">Creator</p>
-              <p className="bid">Currunt Bid</p>
+              <p className="bid">Currunt Bidd</p>
               <p className="creatorName">APESnft</p>
               <p className="eth">6.70 ETH</p>
 
